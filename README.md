@@ -2,7 +2,7 @@
 <h3 align="center">A creative front-end developer and UX designer from Barbados</h3>
 
 - 🔭 I’m currently working on upgrading my portfolio
-- 👨‍💻 Check out my blog: https://cholem.netlify.app
+- 👨‍💻 Check out my portfolio: https://cholem.netlify.app
 - 🌱 I’m currently learning REST APIs
 - 💬 Ask me about UX / UI design
 - 📫 How to reach me: https://cholem.netlify.app/contact
