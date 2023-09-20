@@ -1,5 +1,5 @@
-<h1 align="center">Hi, 👋 I'm Chole</h1>
-<h3 align="center">A creative front-end developer and UX designer from Barbados</h3>
+# Hi, 👋 I'm Chole
+## A creative front-end developer and UX designer from Barbados
 
 - 🔭 I’m currently working on upgrading my portfolio
 - 👨‍💻 Check out my portfolio: https://cholem.netlify.app
