@@ -2,10 +2,10 @@
 ## A creative front-end developer and UX designer from Barbados
 
 - 🔭 I’m currently working on upgrading my portfolio
-- 👨‍💻 Check out my portfolio: https://cholem.netlify.app
+- 👨‍💻 Check out my portfolio: https://cholefolio.netlify.app
 - 🌱 I’m currently learning REST APIs
 - 💬 Ask me about UX / UI design
-- 📫 How to reach me: https://cholem.netlify.app/contact
+- 📫 How to reach me: https://cholefolio.netlify.app/contact
 - ⚡ Fun fact: I cosplay and crochet
 
 <h2>Connect With Me</h2>
